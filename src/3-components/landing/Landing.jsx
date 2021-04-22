@@ -13,7 +13,7 @@ function Landing() {
       </div>
       <div className="landing-intro">
         <div className="landing-intro-title">
-          
+          codices
         </div>
         <div className="landing-intro-panel">
           <div className=""></div>
@@ -21,7 +21,7 @@ function Landing() {
       </div>
       <div className="landing-about">
         <div className="landing-about-title">
-          
+          about
         </div>
         <div className="landing-about-panel">
           
@@ -29,8 +29,8 @@ function Landing() {
       </div>
       <div className="landing-features">
         <div className="landing-features-title">
-          
-          </div>
+          features  
+        </div>
         <div className="landing-features-panel">
           
         </div>
